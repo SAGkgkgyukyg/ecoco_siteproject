@@ -1,0 +1,4 @@
+html,body,#root{height:100%;margin:0}
+body{font-family:Inter, Roboto, sans-serif;padding:16px;background:#f6f7fb}
+.container{max-width:1100px;margin:0 auto}
+.preview-card{background:#fff;padding:16px;border-radius:8px;box-shadow:0 1px 4px rgba(0,0,0,0.08)}
